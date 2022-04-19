@@ -1,0 +1,9 @@
+2022-04-19 06:15:26,396 [INFO] werkzeug: 172.19.0.1 - - [19/Apr/2022 06:15:26] "GET / HTTP/1.1" 200 -
+2022-04-19 06:15:28,805 [INFO] werkzeug: 172.19.0.1 - - [19/Apr/2022 06:15:28] "GET /register HTTP/1.1" 200 -
+2022-04-19 06:15:31,425 [INFO] werkzeug: 172.19.0.1 - - [19/Apr/2022 06:15:31] "GET /login HTTP/1.1" 200 -
+2022-04-19 06:15:32,954 [INFO] werkzeug: 172.19.0.1 - - [19/Apr/2022 06:15:32] "GET / HTTP/1.1" 200 -
+2022-04-19 06:17:42,934 [INFO] werkzeug:  * Detected change in '/home/myuser/app/logging_config/__init__.py', reloading
+2022-04-19 06:18:55,806 [INFO] werkzeug: 172.19.0.1 - - [19/Apr/2022 06:18:55] "GET /welcome HTTP/1.1" 200 -
+2022-04-19 06:18:56,637 [INFO] werkzeug: 172.19.0.1 - - [19/Apr/2022 06:18:56] "GET /about HTTP/1.1" 200 -
+2022-04-19 06:18:57,595 [INFO] werkzeug: 172.19.0.1 - - [19/Apr/2022 06:18:57] "GET / HTTP/1.1" 200 -
+2022-04-19 06:28:36,287 [INFO] werkzeug:  * Detected change in '/home/myuser/app/__init__.py', reloading
